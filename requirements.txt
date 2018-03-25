@@ -1,0 +1,13 @@
+backports.functools-lru-cache==1.5
+cycler==0.10.0
+Django==1.11.11
+image==1.5.20
+kiwisolver==1.0.1
+matplotlib==2.2.2
+numpy==1.14.2
+Pillow==5.0.0
+pyparsing==2.2.0
+python-dateutil==2.7.1
+pytz==2018.3
+six==1.11.0
+subprocess32==3.2.7
